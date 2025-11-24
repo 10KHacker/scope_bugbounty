@@ -1,2 +1,6 @@
-hub.vznkul.be
-hubacc.vznkul.be
+app.pdq.com
+portal.pdq.com
+a.simplemdm.com
+auth2.pdq.com
+library.pdq.com
+gitlab.isc.org
