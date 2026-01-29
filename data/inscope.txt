@@ -115,6 +115,9 @@ casino.*.betmgm.com
 *.indeedflex.com
 *.indeed.tech
 *.indeed.net
+*.intercomassets.com
+*.intercomcdn.com
+*.mobile-messenger.intercom.com
 *.jora.com
 *.jora.xyz
 *.thuisbezorgd.nl
@@ -282,12 +285,6 @@ np.*.lfscnp.com
 *.uscc.com
 *.uscellular.com
 *.assurancewireless.com
-*.tesla.cn
-*.tesla.services
-*.tesla.com
-*.teslamotors.com
-*.solarcity.com
-*.teslainsuranceservices.com
 *.tools.thefork.tech
 *.prod.uidapi.com
 *.thetradedesk.com
@@ -1495,6 +1492,14 @@ indeed.com
 apis.indeed.com
 resume.com
 wowjobs.ca
+developers.intercom.com
+api.intercom.com
+api.intercom.io
+app.intercom.com
+app.intercom.io
+intercom.com
+mcp.intercom.com
+api-iam.intercom.io
 carsdirect.com
 pets.webmd.com
 member.webmd.com
