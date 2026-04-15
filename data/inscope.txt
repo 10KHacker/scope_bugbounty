@@ -5,6 +5,10 @@ portalapi.*.afterpay.com
 *.arloxcld.com
 *-prod.arlo.com
 *.arlocloud.com
+*.asana.plus
+*.app.asana.com
+*.asana.biz
+*asana.biz
 *.atlassian.com
 *.atl-paas.net
 *.atlassian.net
@@ -1038,6 +1042,7 @@ ic3.*.indriverapp.com
 *.cloudways.com
 *.dpgmedia.be
 *.dpgmedia.nl
+*.datacamp.com
 *.demorgen.be
 *.volkskrant.nl
 *.digitalocean.com
@@ -1052,6 +1057,12 @@ ic3.*.indriverapp.com
 *.helloworks.com
 *.hellosign.com
 *.dash.ai
+*.das.eu
+*.dns.eu
+*.eurid.eu
+*.nic.eu
+*.registry.eu
+*.whois.eu
 *.itscope.com
 *.itscope.de
 *.gripp.com
@@ -1328,6 +1339,9 @@ myapi.arlo.com
 arlo.com
 updates.arlo.com
 partnerapi.arlo.com
+app.asana.com
+asana.com
+form.asana.com
 admin.atlassian.com
 id.atlassian.com
 start.atlassian.com
@@ -4715,6 +4729,15 @@ platform.cloudways.com
 unified.cloudways.com
 cloudways.com
 css-tricks.com
+profiles-api.datacamp.com
+app.datacamp.com
+assessment-api.datacamp.com
+assessment-v2.datacamp.com
+assessment.datacamp.com
+campus.datacamp.com
+practice.datacamp.com
+projects.datacamp.com
+datacamp.com
 myaccount.demorgen.be
 shop.demorgen.be
 demorgen.be
@@ -4762,6 +4785,7 @@ replay.dropbox.com
 hellofax.com
 docsend.com
 app.reclaim.ai
+my.eurid.eu
 itscope.com
 itscope.de
 gripp.com
@@ -5368,8 +5392,6 @@ pprd.cybermalveillance.gouv.fr
 shoppingapp.decathlon.com
 app.sandbox.agora.incubateur.net
 api.sandbox.agora.incubateur.net
-demarches-simplifiees.fr
-static.demarches-simplifiees.fr
 identite-sandbox.proconnect.gouv.fr
 tchap.gouv.fr
 matrix.agent.tchap.gouv.fr

@@ -5,6 +5,10 @@ portalapi.*.afterpay.com
 *.arloxcld.com
 *-prod.arlo.com
 *.arlocloud.com
+*.asana.plus
+*.app.asana.com
+*.asana.biz
+*asana.biz
 *.atlassian.com
 *.atl-paas.net
 *.atlassian.net
@@ -1038,6 +1042,7 @@ ic3.*.indriverapp.com
 *.cloudways.com
 *.dpgmedia.be
 *.dpgmedia.nl
+*.datacamp.com
 *.demorgen.be
 *.volkskrant.nl
 *.digitalocean.com
@@ -1052,6 +1057,12 @@ ic3.*.indriverapp.com
 *.helloworks.com
 *.hellosign.com
 *.dash.ai
+*.das.eu
+*.dns.eu
+*.eurid.eu
+*.nic.eu
+*.registry.eu
+*.whois.eu
 *.itscope.com
 *.itscope.de
 *.gripp.com
