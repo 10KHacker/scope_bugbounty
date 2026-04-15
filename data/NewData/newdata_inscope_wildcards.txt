@@ -1,11 +1,1 @@
-*.asana.plus
-*.app.asana.com
-*.asana.biz
-*asana.biz
 *.datacamp.com
-*.das.eu
-*.dns.eu
-*.eurid.eu
-*.nic.eu
-*.registry.eu
-*.whois.eu
