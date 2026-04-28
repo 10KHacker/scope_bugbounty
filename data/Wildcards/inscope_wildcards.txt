@@ -406,6 +406,7 @@ sip.*.twilio.com
 *.pullandbear.cn
 *.massimodutti.cn
 *.inditexcareers.com
+*.prod.innovexperiments.com
 *.visamiddleeast.com
 *.consumer.worldcoin.org
 *.toolsforhumanity.com
