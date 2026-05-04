@@ -1,2 +1,3 @@
-idp-contact.nexuzhealth.be
-media.nexuzhealth.be
+payment.backend-capital.com
+capital.com
+open-api.capital.com
