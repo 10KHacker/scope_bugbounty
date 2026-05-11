@@ -36,14 +36,6 @@ hsd1.*.comcast.net
 *.starsoft.movilepay.com
 *.openfinance.ifood.com.br
 *.openfinance.ifoodpago.com.br
-*.godsunchained.com
-*.gogbackend.com
-*.dev.x.immutable.com
-*.sandbox.x.immutable.com
-*.sandbox.imtbl.com
-*.dev.imtbl.com
-*.ropsten.x.immutable.com
-*.guildofguardians.com
 *.joralocal.com.au
 *.business.just-eat.co.uk
 *kohls.com
@@ -545,9 +537,6 @@ g.*.slackhq.com
 *.virtualworld-portal.buhlergroup.com
 *.virtualworld.buhlergroup.com
 *.webinars.buhlergroup.com
-*affiliates.backend-capital.com
-*eduapp.backend-capital.com
-*education.backend-capital.com
 *.static.edpnet.net
 *.dyn.edpnet.net
 *.citymesh.recruitee.com
@@ -588,9 +577,6 @@ g.*.slackhq.com
 *.probes.atlas.ripe.net
 *.ripe.net
 *.newyorkredbulls.com
-*.red.sqills.team
-booking.*.cloud.sqills
-booking.*.sqills.com
 *.tempo-team.de
 *.ccnag.com
 *.connect.coca-cola.com
