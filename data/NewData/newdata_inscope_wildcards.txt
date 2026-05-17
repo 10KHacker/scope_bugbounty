@@ -1,1 +1,2 @@
-*.kucoin.com
+*.cash.app
+*.cashstaging.app

@@ -1,5 +1,1 @@
-a.simplemdm.com
-auth2.pdq.com
-library.pdq.com
-portal.pdq.com
-app.pdq.com
+cash.app
