@@ -41,6 +41,8 @@ hsd1.*.comcast.net
 *kohls.com
 *kohlsecommerce.com
 *.kohls.com
+*-sdb.kucoin.com
+*-sandbox.kucoin.com
 auth.*.latitudefinancial.com
 *.latitudefs.com
 *.my.latitudepay.com
@@ -242,6 +244,9 @@ db.*.supabase.co
 *.stripchat.com
 *.okg.com
 *.epic.superbet.ro
+*.magiceden.dev
+*.magiceden.io
+*.magiceden.workers.dev
 *.pramericalife.in
 *.prudential.co.kr
 *.prudentialagf.cl
@@ -843,6 +848,13 @@ kconnect.kohls.com
 connection.kohls.com
 kohlsmerch.kohls.com
 b2b.kohls.com
+support.kucoin.plus
+store.kucoin.com
+docs.kucoin.com
+intro.kucoin.com
+cert.kucoin.com
+sandbox.kucoin.com
+passport.kucoin.com
 identity.lastpass.com
 info.lastpass.com
 forums.lastpass.com
@@ -1527,6 +1539,7 @@ help.dicey.com
 auth.magiceden.io
 ord-mirror.magiceden.dev
 img-cdn.magiceden.dev
+magiceden.io
 mainframe.magiceden.io
 staging.dicey.com
 afphabitat.cl

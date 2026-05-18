@@ -41,6 +41,8 @@ hsd1.*.comcast.net
 *kohls.com
 *kohlsecommerce.com
 *.kohls.com
+*-sdb.kucoin.com
+*-sandbox.kucoin.com
 auth.*.latitudefinancial.com
 *.latitudefs.com
 *.my.latitudepay.com
@@ -242,6 +244,9 @@ db.*.supabase.co
 *.stripchat.com
 *.okg.com
 *.epic.superbet.ro
+*.magiceden.dev
+*.magiceden.io
+*.magiceden.workers.dev
 *.pramericalife.in
 *.prudential.co.kr
 *.prudentialagf.cl
