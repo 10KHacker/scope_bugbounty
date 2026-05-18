@@ -1066,6 +1066,7 @@ bluehost.com
 hostgator.com
 transferwise.com
 wise.com
+wise-sandbox.com
 auth.wyze.com
 my.wyze.com
 api.wyzecam.com
