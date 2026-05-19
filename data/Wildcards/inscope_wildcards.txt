@@ -17,8 +17,6 @@ portalapi.*.afterpay.com
 *.cic-bug-bounty.auth0app.com
 *.backblazeb2.com
 *.backblaze.com
-*.binance.com
-*.binance.us
 *.bitdefender.net
 *.bitdefender.com
 *.bitgo.com
@@ -1032,6 +1030,7 @@ ic3.*.indriverapp.com
 *.cloudways.com
 *.dpgmedia.be
 *.dpgmedia.nl
+*.datacamp.com
 *.demorgen.be
 *.volkskrant.nl
 *.digitalocean.com
