@@ -1,4 +1,11 @@
-payment.backend-capital.com
-capital.com
-open-api.capital.com
-cyber.gouv.qc.ca
+ops-portal.sandbox.meraki.com
+gamma.nl
+gamma.be
+karwei.nl
+kassa.gamma.nl
+kassa.gamma.be
+kassa.karwei.nl
+mijn.gamma.nl
+mijn.gamma.be
+mijn.karwei.nl
+irmg.nl
