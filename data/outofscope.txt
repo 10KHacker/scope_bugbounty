@@ -582,6 +582,9 @@ g.*.slackhq.com
 *.virtualworld-portal.buhlergroup.com
 *.virtualworld.buhlergroup.com
 *.webinars.buhlergroup.com
+*affiliates.backend-capital.com
+*eduapp.backend-capital.com
+*education.backend-capital.com
 *.static.edpnet.net
 *.dyn.edpnet.net
 *.citymesh.recruitee.com
@@ -3385,6 +3388,10 @@ gitlab.buhler-datascience.ch
 imap.buhlergroup.cn
 pop.buhlergroup.cn
 smtp.buhlergroup.cn
+help.capital.com
+relocate-with-us.capital.com
+3cxby.itcapital.io
+texis.itcapital.io
 digi-belgium.be
 api.digi-belgium.be
 digicampus.digimobil.es
@@ -3701,6 +3708,7 @@ keycloak.apps.otto.de
 help-okto.sprinklr.com
 checkout-service.paddle.com
 buy.paddle.com
+poc-op-ywh.it.authentification.si.gouv.qc.ca
 sogexia.com
 support.sogexia.com
 sogexiaclub.com
