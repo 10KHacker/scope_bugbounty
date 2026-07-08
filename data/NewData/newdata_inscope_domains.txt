@@ -1,6 +1,1 @@
-actionableagile.55degrees-apps.net
-accounts.hytale.com
-store.hytale.com
-hytale.com
-hytale.dev
-arcanitegames.ca
+23andme.org
