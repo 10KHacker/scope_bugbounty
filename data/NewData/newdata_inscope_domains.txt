@@ -1,2 +1,2 @@
-api.codacy.com
-app.codacy.com
+manager.thefork.com
+api-ws.thefork.com
