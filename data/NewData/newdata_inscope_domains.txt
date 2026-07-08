@@ -1,2 +1,9 @@
-manager.thefork.com
-api-ws.thefork.com
+hackerone-m1rtuq8orz.hbstaging.website
+signin-hackerone.hbstaging.website
+soundtrack.io
+api.soundtrackyourbrand.com
+billing.api.soundtrackyourbrand.com
+builds.soundtrackyourbrand.com
+business.soundtrackyourbrand.com
+auth.api.soundtrackyourbrand.com
+radio.api.soundtrackyourbrand.com
