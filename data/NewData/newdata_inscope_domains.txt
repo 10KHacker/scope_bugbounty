@@ -1,11 +1,2 @@
-login.cm.com
-api.cm.com
-api.cmtelecom.com
-cm.com
-appmiral.com
-building-blocks.com
-cmcom.atlassian.net
-ai-testing.maventa.com
-ax-stage.maventa.com
-autointerface.stag.visma.net
-testing.maventa.com
+app.spacelift.dev
+spacelift.dev
