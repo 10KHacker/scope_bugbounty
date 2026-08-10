@@ -1034,6 +1034,7 @@ ic3.*.indriverapp.com
 *.techbook.de
 *.travelbook.de
 *.wissen-sie-mehr.de
+*.ticketing.cm.com
 *.backend-capital.com
 *.capital.com
 *.itcapital.io
@@ -3758,12 +3759,7 @@ upload.box.com
 bitcoin-s.a.exodus.io
 exodus.io
 exodus.com
-passkeys.foundation
-wallet.passkeys.foundation
-my.passkeys.network
-api.passkeys.network
 ctr.a.exodus.io
-embedded.passkeys.foundation
 exodus-movement.exodus
 fiat-p.a.exodus.io
 fiat-prod-fallback.a.exodus.io
@@ -3774,7 +3770,6 @@ nexotrack-p.exodus.io
 nexotrack.exodus.io
 pay-admin.exodus.io
 pay.exodus.io
-relay.passkeys.foundation
 turing.exodus.io
 kubernetes-csi.github.io
 k8s.io
@@ -5057,6 +5052,13 @@ configure.bmw.de
 configure.mini.de
 konfigurator.bmw-motorrad.de
 de.bmw.connected.mobile20.row
+login.cm.com
+api.cm.com
+api.cmtelecom.com
+cm.com
+appmiral.com
+building-blocks.com
+cmcom.atlassian.net
 payment.backend-capital.com
 capital.com
 open-api.capital.com
@@ -5536,6 +5538,10 @@ myservices-api.stage.vismaonline.com
 myservices.stage.vismaonline.com
 oauth.developers.stagaws.visma.com
 photoservice.stage.vismaonline.com
+ai-testing.maventa.com
+ax-stage.maventa.com
+autointerface.stag.visma.net
+testing.maventa.com
 api.voiapp.io
 mds.voiapp.io
 fm.voiapp.io

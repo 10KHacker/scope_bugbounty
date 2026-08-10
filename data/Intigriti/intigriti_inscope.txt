@@ -54,6 +54,14 @@ configure.bmw.de
 configure.mini.de
 konfigurator.bmw-motorrad.de
 de.bmw.connected.mobile20.row
+login.cm.com
+*.ticketing.cm.com
+api.cm.com
+api.cmtelecom.com
+cm.com
+appmiral.com
+building-blocks.com
+cmcom.atlassian.net
 payment.backend-capital.com
 *.backend-capital.com
 capital.com
@@ -689,6 +697,10 @@ myservices-api.stage.vismaonline.com
 myservices.stage.vismaonline.com
 oauth.developers.stagaws.visma.com
 photoservice.stage.vismaonline.com
+ai-testing.maventa.com
+ax-stage.maventa.com
+autointerface.stag.visma.net
+testing.maventa.com
 api.voiapp.io
 mds.voiapp.io
 fm.voiapp.io
