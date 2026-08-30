@@ -759,13 +759,6 @@ portal.riskrecon.eu
 mcp.recordedfuture.com
 refined.site
 refinedsites.refinedwiki.com
-app.requirementyogi.com
-api.requirementyogi.com
-auth.requirementyogi.com
-confluence.requirementyogi.com
-jira.requirementyogi.com
-ww1.requirementyogi.cloud
-ww2.requirementyogi.cloud
 seekcdn.com
 graphql.seek.com
 auth.seek.com
@@ -4396,11 +4389,6 @@ account.deezer.com
 pipe.deezer.com
 ws.deezer.com
 upload.deezer.com
-beta.gastwebsite-acm.burgerprofiel.ext-vlaanderen.be
-beta.gastwebsite.burgerprofiel.ext-vlaanderen.be
-beta.widgets.burgerprofiel.dev-vlaanderen.be
-burgerprofiel.beta-vlaanderen.be
-vo-gebruikersbeheer.vlaanderen.be
 pro.doctolib
 fr.doctolib.www
 dmp.fr

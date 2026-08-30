@@ -624,8 +624,6 @@ g.*.slackhq.com
 *.cryptobox.com
 *.ercom.fr
 *.dana.id
-*.vlaanderen.be
-*.omgeving.vlaanderen.be
 *.doctolib.fr
 *.sslip.io
 *.nip.io

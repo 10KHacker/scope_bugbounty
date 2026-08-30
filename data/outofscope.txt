@@ -624,8 +624,6 @@ g.*.slackhq.com
 *.cryptobox.com
 *.ercom.fr
 *.dana.id
-*.vlaanderen.be
-*.omgeving.vlaanderen.be
 *.doctolib.fr
 *.sslip.io
 *.nip.io
@@ -1181,7 +1179,6 @@ developer.proptrack.com.au
 proptrack.com.au
 widgets-api-sit.uat.proptrack.com
 avm-sit.uat.proptrack.com
-docs.requirementyogi.com
 id.atlassian.com
 auth.simplisafe.com
 careers.simplisafe.com
@@ -3629,10 +3626,6 @@ deezercommunity.com
 deezer-blog.com
 deezer-brandsolutions.com
 deezerjobs.com
-cdn.vlaanderen.be
-codex.opendata.api.vlaanderen.be
-vlaanderen.be
-natura2000.vlaanderen.be
 community.doctolib.com
 info.doctolib.com
 status.doctolib.com
