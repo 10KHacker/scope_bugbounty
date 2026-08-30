@@ -367,9 +367,6 @@ bus.*.indrive.com
 *.xmqa.cloud.com
 *.xmtest.cloud.com
 *.bell.ca
-*.mavenlab.com
-*.moobicast.com
-*.moobidesk.com
 *.msteams.8x8.com
 *.callstats.io
 *.contactnow.8x8.com
@@ -2241,7 +2238,6 @@ launch.cloud.com
 xvcams.com
 xvlivecams.com
 openmage.org
-moobidesk-main.vercel.app
 8x8.wavecell.com
 webmail.wavecell.com
 desktop.jitsi.org

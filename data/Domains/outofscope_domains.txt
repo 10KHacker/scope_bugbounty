@@ -1585,7 +1585,6 @@ launch.cloud.com
 xvcams.com
 xvlivecams.com
 openmage.org
-moobidesk-main.vercel.app
 8x8.wavecell.com
 webmail.wavecell.com
 desktop.jitsi.org
