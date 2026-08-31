@@ -696,7 +696,6 @@ trip.com
 *.tyo-masters.co.jp
 *.vayama.com
 *.vliegwinkel.nl
-app.blueskytravelvietnam.com
 *.bykea.net
 bykea.com
 api.bykea.net

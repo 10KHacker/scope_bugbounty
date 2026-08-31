@@ -3032,7 +3032,6 @@ testnet.bybit.eu
 bybit.com
 byreal.io
 trip.com
-app.blueskytravelvietnam.com
 bykea.com
 api.bykea.net
 geocode-beta.bykea.net
