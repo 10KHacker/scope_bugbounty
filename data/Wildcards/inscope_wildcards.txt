@@ -1116,6 +1116,8 @@ ic3.*.indriverapp.com
 *.mobilevikings.be
 *.prd-pub.mobilevikings.be
 *.prd.mobilevikings.be
+*.monzo.com
+*.prod-ffs.io
 *.app.personio-dev.com
 *.app.personio.com
 *.personio-internal.de
