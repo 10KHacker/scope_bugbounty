@@ -5,18 +5,6 @@ acorns.com
 graphql.acorns.com
 gohenry.com
 pixpay.fr
-portal.afterpay.com
-afterpay.com
-mobileapi.afterpay.com
-portalapi.us.afterpay.com
-developers.afterpay.com
-clearpay.co.uk
-clearpay.com
-portal.clearpay.com
-portal.clearpay.co.uk
-mobileapi.clearpay.com
-portalapi.eu.clearpay.co.uk
-api.clearpay.com
 app.simple-reports.com
 aiven.io
 regatta.aiven.io
@@ -1815,7 +1803,6 @@ visa.com.az
 visa.com.ua
 images.demand.cybersource.com
 info.authorize.net
-info.cybersource.com
 merchantsignage.visa.com
 merchantsignageca.visa.com
 merchantsignageeu.visa.com
