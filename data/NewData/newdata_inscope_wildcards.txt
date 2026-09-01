@@ -1,2 +1,3 @@
-*.acrobat.adobe.com
-*.lightroom.adobe.com
+*elvetino.ch
+*sbbcargo.com
+*transsicura.ch

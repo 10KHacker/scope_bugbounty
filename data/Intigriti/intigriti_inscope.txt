@@ -376,7 +376,6 @@ fb.lansweeper.com
 edge.lansweeper.com
 api.lansweeper.com
 backoffice.lansweeper.com
-lsagentrelay.lansweeper.com
 autoupdateapi.lansweeper.com
 docs.lansweeper.com
 login.lansweeper.com
@@ -587,8 +586,11 @@ basecamp.rivian.com
 sbb.ch
 *.sbb.ch
 elvetino.ch
+*elvetino.ch
 sbbcargo.com
+*sbbcargo.com
 transsicura.ch
+*transsicura.ch
 *.baeder-suite.de
 *.cognitec-systems.de
 *.cognitec.com
