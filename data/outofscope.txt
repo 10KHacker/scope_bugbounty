@@ -501,6 +501,7 @@ online.*.skybingo.com
 *.web-security-academy.net
 *.wordpress.com
 *wordpress.com
+*.wordpress.org
 *.ruby-lang.org
 *.github.io
 *.ali.zomans.com
@@ -3085,6 +3086,8 @@ mail.files.com
 status.files.com
 stat.exnessaffiliates.com
 wordpress.com
+irclogs.wordpress.org
+lists.wordpress.org
 status.wordpress.org
 glotpress.blog
 wordpress.tv

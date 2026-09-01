@@ -4713,8 +4713,6 @@ codex.wordpress.org
 codex.bbpress.org
 codex.buddypress.org
 doaction.org
-irclogs.wordpress.org
-lists.wordpress.org
 mercantile.wordpress.org
 woocommerce.com
 planet.wordpress.org

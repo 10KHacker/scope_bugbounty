@@ -2433,6 +2433,8 @@ mail.files.com
 status.files.com
 stat.exnessaffiliates.com
 wordpress.com
+irclogs.wordpress.org
+lists.wordpress.org
 status.wordpress.org
 glotpress.blog
 wordpress.tv
