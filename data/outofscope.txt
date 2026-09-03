@@ -579,6 +579,7 @@ g.*.slackhq.com
 *.citymesh.recruitee.com
 *.digi-mobile.be
 *.insky.be
+*.it.datacamp.com
 *.snapshooter.com
 *.db.ondigitalocean.com
 *.db1.ondigitalocean.com
@@ -2622,6 +2623,7 @@ instacart.careers
 life.instacart.com
 news.instacart.com
 tech.instacart.com
+phpbb.com
 socialhub.expediacruises.com
 bookus.expediacruises.com
 expediaagents.com
@@ -3424,6 +3426,18 @@ digi-belgium.be
 api.digi-belgium.be
 digicampus.digimobil.es
 visitors.dpgmedia.be
+app.datacamp.com
+ast-viewer.datacamp.com
+confluence.datacamp.com
+dccertified.datacamp.com
+intranet.datacamp.com
+jira.datacamp.com
+links.datacamp.com
+rdocumentation.datacamp.com
+signature.datacamp.com
+status.datacamp.com
+support.datacamp.com
+talent-jobs-api.datacamp.com
 actie.demorgen.be
 demorgen.be
 abonnement.demorgen.be

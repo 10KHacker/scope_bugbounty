@@ -1,1 +1,1 @@
-*.gp.monash.edu
+*.datacamp.com
