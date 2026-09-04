@@ -338,13 +338,6 @@ advisoryworld.com
 *.cyral.com
 *.varonis-preprod.com
 issue-management.iontrading.com
-api-stage.pricerunner.com
-api-us.pricerunner.com
-api.pricerunner.com
-app.klarna.com
-jobs.pricerunner.com
-locker.klarna.com
-nuji.com
 *.cadastro.uat.unico.app
 devcenter.unico.io
 uconf.uat.unico.app
@@ -2410,6 +2403,7 @@ status.gitlab.com
 support.gitlab.com
 translate.gitlab.com
 us-federal-gitlab.com
+*.plugins.realtime.cloudflare.com
 developers.cloudflare.com
 api.staging.realtime.cloudflare.com
 app.dyte.io

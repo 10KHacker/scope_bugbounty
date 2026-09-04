@@ -545,6 +545,7 @@ online.*.skybingo.com
 *.gitlab.cn
 *.runway.gitlab.net
 *.service-now.com
+*.plugins.realtime.cloudflare.com
 *.crowdsignal.net
 *.poll.fm
 *.survey.fm
@@ -1589,13 +1590,6 @@ x.com
 youtube.com
 advisoryworld.com
 issue-management.iontrading.com
-api-stage.pricerunner.com
-api-us.pricerunner.com
-api.pricerunner.com
-app.klarna.com
-jobs.pricerunner.com
-locker.klarna.com
-nuji.com
 devcenter.unico.io
 uconf.uat.unico.app
 docs.wallet.tg
@@ -3740,6 +3734,8 @@ login.swissid.ch
 account.post.ch
 incamail-dev.post.ch
 incamail-test.post.ch
+service.post.ch
+pccweb.api.post.ch
 tc.ownit.se
 faq.vimla.se
 status.vimla.se
