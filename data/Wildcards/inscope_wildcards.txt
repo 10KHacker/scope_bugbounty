@@ -228,7 +228,6 @@ np.*.lfscnp.com
 *.pinterest.com
 *.pixabay.com
 *.points.com
-*.quizlet.com
 *.rapyd.net
 *.korta.is
 *.rapyd.com
@@ -262,10 +261,6 @@ np.*.lfscnp.com
 *.prd.webapps.simplisafe.com
 *.skyscanner.net
 *.sophos.com
-*.soundcloud.org
-*.s-cloud.net
-*.soundcloud.com
-*.services.repostnetwork.com
 *.square.com
 *.squareup.com
 *.statuspage.io

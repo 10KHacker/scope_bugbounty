@@ -792,10 +792,6 @@ namejet.com
 sophos.com
 central.sophos.com
 docs.sophos.com
-soundcloud.com
-connect.soundcloud.com
-artists.soundcloud.com
-soundcloud.org
 squareup.com
 square.online
 weebly.com

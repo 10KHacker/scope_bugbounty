@@ -945,7 +945,6 @@ financeiro.quintoandar.com.br
 apigw.prod.quintoandar.com.br
 finance.quintoandar.com.br
 trato-feito-api.quintoandar.com.br
-*.quizlet.com
 api.rapyd.net
 dashboard.rapyd.net
 verify.rapyd.net
@@ -1056,14 +1055,6 @@ sophos.com
 central.sophos.com
 docs.sophos.com
 *.sophos.com
-soundcloud.com
-*.soundcloud.org
-*.s-cloud.net
-connect.soundcloud.com
-*.soundcloud.com
-*.services.repostnetwork.com
-artists.soundcloud.com
-soundcloud.org
 squareup.com
 *.square.com
 *.squareup.com
