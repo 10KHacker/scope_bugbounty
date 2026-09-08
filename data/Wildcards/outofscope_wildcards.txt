@@ -188,6 +188,7 @@ argocd.*.uidapi.com
 *.rukkaz.com
 *.superawesome.com
 *.superawesome.tv
+*gogo.com
 *.cdssandbox.xyz
 *.cas.l3harris.com
 *.cts.l3harris.com

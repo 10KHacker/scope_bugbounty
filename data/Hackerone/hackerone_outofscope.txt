@@ -29,8 +29,11 @@ gogotours.ca
 gpden.gogoair.com
 gpmlb.gogoair.com
 gogo.to
+sdgov.gogoair.com
 legacy.gogoair.com
+*gogo.com
 gogo574.com
+gogoair.com
 gogocloud.net
 gogocommercialaviation.com
 *.cdssandbox.xyz
@@ -1196,6 +1199,8 @@ adsmanager.truecaller.com
 community.truecaller.com
 support.truecaller.com
 help.evernote.com
+signrequest.com
+sr-staging-1.com
 *.hcltechsw.com
 *.chealth.io
 *.currenthealth.com
