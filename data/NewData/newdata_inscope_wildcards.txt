@@ -1,6 +1,5 @@
-*.deliciousbrains.com
-*.localwp.com
-*.nitropack.io
-*.studiopress.com
-*.wpengine.io
-*.wpesvc.net
+*.quizlet.com
+*.soundcloud.org
+*.s-cloud.net
+*.soundcloud.com
+*.services.repostnetwork.com
