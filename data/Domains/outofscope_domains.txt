@@ -273,6 +273,11 @@ ecwid.com
 community.li.me
 help.li.me
 li.me
+filestack.com
+freshdesk.com
+blstr.xyz
+blstr.co
+community.linktr.ee
 americangirlmena.com
 about.mattermost.com
 integrations.mattermost.com
@@ -717,13 +722,9 @@ software.cts.l3harris.com
 swarm.thorntontomasetti.com
 tms.l3commercialaviation.com
 andurilgear.com
-1040.com
 drakesoftware.com
-securefilepro.com
 taxact.com
 taxactonline.com
-taxwell.com
-taxwell.org
 kyc.ondato.net
 kyc.api.ondato.net
 luminor.nyc3.digitaloceanspaces.com

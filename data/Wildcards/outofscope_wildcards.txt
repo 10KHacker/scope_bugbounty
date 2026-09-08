@@ -52,6 +52,9 @@ auth.*.latitudefinancial.com
 *.airflow.limeinternal.com
 *.limeinternal.com
 *.lime.bike
+*.filestack.com
+*.blstr.xyz
+*.blstr.co
 *.nuinternational.com
 *.nat-a.nubank.com.br
 *.octopus.app
