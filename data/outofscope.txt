@@ -52,9 +52,6 @@ auth.*.latitudefinancial.com
 *.airflow.limeinternal.com
 *.limeinternal.com
 *.lime.bike
-*.filestack.com
-*.blstr.xyz
-*.blstr.co
 *.nuinternational.com
 *.nat-a.nubank.com.br
 *.octopus.app
@@ -927,11 +924,6 @@ ecwid.com
 community.li.me
 help.li.me
 li.me
-filestack.com
-freshdesk.com
-blstr.xyz
-blstr.co
-community.linktr.ee
 americangirlmena.com
 about.mattermost.com
 integrations.mattermost.com
